@@ -1,5 +1,5 @@
 # RFNet: Real-time Fusion Network for RGB-D Semantic Segmentation Incorporating Unexpected Obstacle Detection of Road-driving Images
-This repository is a Pytorch implementation for  
+This **fork** repository is a Pytorch implementation for  
 
 >Sun, Lei, et al. "Real-time Fusion Network for RGB-D Semantic Segmentation Incorporating Unexpected Obstacle Detection for Road-driving Images." arXiv preprint arXiv:2002.10570 (2020).
 
